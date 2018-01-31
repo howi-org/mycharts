@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-01-31T01:13:12.514922702-08:00
+    description: A Helm chart for Kubernetes
+    digest: 0eb9ec3a34b2bcb9cfaa5b2b1798b8298ef26d29c08ae854f9fca7ed067893cb
+    name: notificationchart
+    urls:
+    - https://howi-org.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-01-31T01:13:12.514133821-08:00
